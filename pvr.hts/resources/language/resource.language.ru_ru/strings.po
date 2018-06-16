@@ -22,11 +22,11 @@ msgstr "Настройки подключения"
 
 msgctxt "#30001"
 msgid "Tvheadend hostname or IP address"
-msgstr "Имя пользователя или IP-адрес Tvheadend"
+msgstr "Сервер TV"
 
 msgctxt "#30002"
 msgid "HTTP port"
-msgstr "Порт HTTP"
+msgstr "Порт сервера"
 
 msgctxt "#30003"
 msgid "HTSP port"
@@ -42,11 +42,11 @@ msgstr "Пароль"
 
 msgctxt "#30006"
 msgid "Connection timeout (seconds)"
-msgstr "Таймаут подключения (секунд)"
+msgstr "Таймаут подключения к потоку (секунд)"
 
 msgctxt "#30007"
 msgid "Response timeout (seconds)"
-msgstr "Ожидание ответа (секунд)"
+msgstr "Ожидание ответа сервера (секунд)"
 
 msgctxt "#30008"
 msgid "Advanced settings"
@@ -114,7 +114,7 @@ msgstr "Трассировка (подробнее)"
 
 msgctxt "#30300"
 msgid "HTSP version mismatch (supported: v%d, required: v%d). Please update tvheadend."
-msgstr "Не соответствие версий HTSP (поддерживаемая: v%d, требуемая: v%d). Пожалуйста, обновите tvheadend."
+msgstr "Не соответствие версий (поддерживаемая: v%d, требуемая: v%d). Пожалуйста, обновите Ваш плагин."
 
 msgctxt "#30351"
 msgid "Important (Highest)"
@@ -250,7 +250,7 @@ msgstr "Использовать интеллектуальную регулир
 
 msgctxt "#30450"
 msgid "No free adapter available"
-msgstr "Нет доступных адаптеров"
+msgstr "Нет доступных потоков"
 
 msgctxt "#30451"
 msgid "Scrambled channel"
@@ -258,7 +258,7 @@ msgstr "Кодированный канал"
 
 msgctxt "#30452"
 msgid "No signal"
-msgstr "Нет сигнала"
+msgstr "Задержка доставки потока"
 
 msgctxt "#30453"
 msgid "Tuning failed"
@@ -266,7 +266,7 @@ msgstr "Не удалось настроить"
 
 msgctxt "#30454"
 msgid "User limit reached"
-msgstr "Исчерпан лимит пользователей"
+msgstr "Исчерпан лимит подключений"
 
 msgctxt "#30455"
 msgid "No access"
@@ -282,7 +282,7 @@ msgstr "Профиль потока"
 
 msgctxt "#30501"
 msgid "Profile to use (empty = default)"
-msgstr "Использовать профиль (пустой = по-умолчанию)"
+msgstr "Использовать профиль потока"
 
 msgctxt "#30502"
 msgid "Streaming profile %s is not available"
