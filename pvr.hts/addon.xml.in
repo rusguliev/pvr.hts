@@ -2,8 +2,8 @@
 <addon
   id="pvr.hts"
   version="4.3.0"
-  name="Tvheadend HTSP Client"
-  provider-name="Adam Sutton, Sam Stenvall, Lars Op den Kamp, Kai Sommerfeld">
+  name="EvoTV PVR client"
+  provider-name="EVOTV.ORG">
   <requires>@ADDON_DEPENDS@</requires>
   <extension
     point="xbmc.pvrclient"
@@ -50,7 +50,7 @@
     <summary lang="pt_BR">Frontend Kodi para Tvheadend</summary>
     <summary lang="pt_PT">Interface Kodi para Tvheadend</summary>
     <summary lang="ro_RO">Interfața Kodi pentru Tvheadend</summary>
-    <summary lang="ru_RU">Интерфейс Kodi для Tvheadend</summary>
+    <summary lang="ru_RU">Интерфейс Kodi для IPTV от evotv.org</summary>
     <summary lang="sk_SK">Kodi rozhranie pre Tvheadend</summary>
     <summary lang="sl_SI">Kodijev vmesnik za Tvheadend</summary>
     <summary lang="sq_AL">Frontend i Kodi'së për Tvheadend</summary>
